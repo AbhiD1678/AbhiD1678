@@ -11,9 +11,7 @@
 
 ### Connect with me:
 
-[![linkeDIn](./img/linkedin-light.svg)](https://linkedin.com/in/abhishek~dubey#gh-light-mode-only)
-[![LinkeDIn](./img/linkedin-dark.svg)](https://linkedin.com/in/abhishek~dubey#gh-dark-mode-only)
-&nbsp;&nbsp;
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/abhishek~dubey)
 
 ### Languages and Tools:
 
