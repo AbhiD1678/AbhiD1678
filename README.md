@@ -3,7 +3,7 @@
 
 
 
-## I'm a Student, Video Editor, Developer, and Enginner!!
+## I'm a Student, Video Editor, Developer, and Engineer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
