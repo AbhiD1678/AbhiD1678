@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web development
-- ⚡ Fun fact: I love to play cricket and listen to songs
+- ⚡ Fun fact: I love to play cricket and listen  songs
 
 ### Connect with me:
 
