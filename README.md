@@ -28,4 +28,4 @@
 <br />
 <br />
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhiD1678&count_private=true&theme=radical)
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhiD1678&count_private=true&theme=cobalt)
