@@ -33,4 +33,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiD1678&hide_progress=true)
 
-![Snake animation](https://github.com/AbhiD1678/AbhiD1678/blob/output/github-contribution-grid-snake.svg)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AbhiD1678&theme=chartreuse-dark)
+
