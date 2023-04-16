@@ -35,3 +35,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AbhiD1678&theme=chartreuse-dark)
 
+
+Watch this snake eat up my contribution graph
+![Snake animation](https://github.com/AbhiD1678/AbhiD1678/blob/output/github-contribution-grid-snake.svg)
