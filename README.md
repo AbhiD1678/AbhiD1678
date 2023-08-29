@@ -5,11 +5,11 @@
 
 ## I'm a Student, Video Editor, Developer, and Engineer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently upgrading my skill portfolio
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web development
-- ⚡ Fun fact: I love to play cricket and listen  songs
-
+- 🥅 2023 Goals: Expertise in web development
+- ⚡ Fun fact: I am a video editor also
+- 
 ### Connect with me:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek~dubey/)
