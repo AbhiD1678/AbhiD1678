@@ -12,7 +12,7 @@
 - 🥅 2023 Goals: Expertise in web development
 - ⚡ Fun fact: I am a video editor also
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=abhid1678)](https://github.com/ryo-ma/github-profile-troph
+ [![trophy](https://github-profile-trophy.vercel.app/?username=abhid1678)](https://github.com/ryo-ma/github-profile-trophy)
   name: Profile Readme Development Stats
   uses: anmol098/waka-readme-stats@V3
             
