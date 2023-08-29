@@ -38,7 +38,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AbhiD1678&theme=chartreuse-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiD1678&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/AbhiD1678/github-readme-stats)
 
 Watch this snake eat up my contribution graph
 <picture>
