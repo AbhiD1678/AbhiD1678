@@ -9,7 +9,8 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Expertise in web development
 - ⚡ Fun fact: I am a video editor also
-- 
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 ### Connect with me:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek~dubey/)
