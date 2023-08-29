@@ -1,6 +1,8 @@
 <img alt="Hi 🖐 ,
           I am Abhishek Dubey" src="header.png" />
 
+![](https://komarev.com/ghpvc/?username=Abhid1678)
+
 
 
 ## I'm a Student, Video Editor, Developer, and Engineer!!
