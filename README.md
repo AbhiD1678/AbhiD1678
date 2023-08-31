@@ -35,7 +35,7 @@
 <br />
 
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhiD1678&count_private=true&theme=blue-green)
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhid1678&count_private=true&theme=blue-green)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AbhiD1678&theme=chartreuse-dark)
 
