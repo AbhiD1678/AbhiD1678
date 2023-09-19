@@ -10,7 +10,7 @@
 - 🌱 I’m currently upgrading my skill portfolio
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Expertise in web development
-- ⚡ Fun fact: I am a video editor also
+- ⚡ Fun fact: I am also a  video editor 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhid1678&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
@@ -29,7 +29,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhid1678&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=abhid1678&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhid1678&theme=blue-green&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/AbhiD1678/github-readme-stats)
 
