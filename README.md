@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently upgrading my skill portfolio
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Expertise in web development
+- 🥅 2024 Goals: Expertise in web development
 - ⚡ Fun fact: I am also a  video editor 
 
 ## 🏆 GitHub Trophies
