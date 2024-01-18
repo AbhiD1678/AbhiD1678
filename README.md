@@ -30,7 +30,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-abhid1678.vercel.app/api?username=abhid1678&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhid1678&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhid1678&theme=blue-green&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats-abhid1678.vercel.app/api/top-langs/?username=abhid1678&layout=pie)](https://github.com/AbhiD1678/github-readme-stats)
 
 ### ✍️ Random Dev Quote
