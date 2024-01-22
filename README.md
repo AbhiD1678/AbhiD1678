@@ -9,13 +9,13 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31opa3k6srkqvwzqh2gmpglwzxx4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31opa3k6srkqvwzqh2gmpglwzxx4&redirect=true)
 
 
-<details>
-            <summary><h1>🏆 GitHub Trophies</h1></summary>
+
+<summary><h1>🏆 GitHub Trophies</h1></summary>
             <p align='center'>
                         <img src='https://github-profile-trophy.vercel.app/?username=abhid1678&theme=darkhub&no-frame=false&no-bg=false&margin-w=4' />
             </p>
             
-</details>
+
 
 
 
