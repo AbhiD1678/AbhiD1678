@@ -17,10 +17,9 @@
 
 <p align='center' >
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=31opa3k6srkqvwzqh2gmpglwzxx4&redirect=true">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31opa3k6srkqvwzqh2gmpglwzxx4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" alt="Spotify GitHub Profile">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31opa3k6srkqvwzqh2gmpglwzxx4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true" alt="Spotify GitHub Profile">
     </a>
 </p>
-
 
 
 
@@ -109,7 +108,24 @@
 
 
 
+<hr>
 
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/AbhiD1678/CryptoWorld" title="CryptoWorld"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiD1678&repo=CryptoWorld&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/AbhiD1678/lyriks" title="Lyriks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiD1678&repo=lyriks&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/AbhiD1678/Youtube_Clone" title="Youtube-Clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiD1678&repo=Youtube_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/AbhiD1678/Ai-Summary" title="Ai-Summariser"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiD1678&repo=Ai-Summary&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+
+<h4 align="center">
+  <a href="https://github.com/AbhiD1678?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 
 <details>
     <summary><h1 style="text-align: center;">📺Random</h1></summary>
