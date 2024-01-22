@@ -1,19 +1,12 @@
-<img alt="Hi 🖐 ,
-          I am Abhishek Dubey" src="header.png" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=5&pause=100000&color=217397&center=true&vCenter=true&repeat=false&random=false&width=800&height=100&lines=Abhishek+Dubey)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=298EBA&center=true&vCenter=true&random=false&width=800&lines=Full-Stack+Web+Developer;Video+Editor;A+Budding+Engineer;Always+Learning+New+Things;Looking+to+Collaborate)](https://git.io/typing-svg)
 
 [![](https://visitcount.itsvg.in/api?id=abhid1678&icon=0&color=0)](https://visitcount.itsvg.in) 
 
 
 
 
-## I'm a Student, Video Editor, Developer, and Engineer!!
 
-- 🌱 I’m currently upgrading my skill portfolio
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Expertise in web development
-- ⚡ Fun fact: I am also a  video editor
-
-  
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31opa3k6srkqvwzqh2gmpglwzxx4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31opa3k6srkqvwzqh2gmpglwzxx4&redirect=true)
 
