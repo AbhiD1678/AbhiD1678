@@ -85,29 +85,26 @@
 </details>
 
 
-<p align='center' />
+<p align='center' >
   <summary><h1>📊 Stats and Activity</h1></summary>
 
 
   <h3>🔥 Streak Stats</h3>
-
-  <p align='center'>
-    <a href="">
-      <img  alt="AbhiD1678's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhid1678&theme=blue-green&hide_border=false"/>
-    </a>
+      <p align='center' >
+        <a href="">
+          <img  alt="AbhiD1678's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhid1678&theme=blue-green&hide_border=false"/>
+        </a>
+      </p>
     
-  </p>
+
 
   <h3>💻 GitHub Profile Stats</h3>
-
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AbhiD1678's Github Stats" src="https://github-readme-stats-abhid1678.vercel.app/api?username=abhid1678&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AbhiD1678's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AbhiD1678&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+      <p align='center' >
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AbhiD1678's Github Stats" src="https://github-readme-stats-abhid1678.vercel.app/api?username=abhid1678&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" height="192px"/></a>
+          <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AbhiD1678's Top Languages" src="https://github-readme-stats-abhid1678.vercel.app/api/top-langs/?username=AbhiD1678&langs_count=8&layout=compact&theme=react&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   </p>
   <br/>
   
-
-
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="AbhiD1678's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiD1678&theme=react-dark" /></a>
 
 
