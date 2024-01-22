@@ -1,36 +1,43 @@
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=5&pause=100000&color=217397&center=true&vCenter=true&repeat=false&random=false&width=800&height=100&lines=Abhishek+Dubey)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=298EBA&center=true&vCenter=true&random=false&width=800&lines=Full-Stack+Web+Developer;Video+Editor;A+Budding+Engineer;Always+Learning+New+Things;Looking+to+Collaborate)](https://git.io/typing-svg)
 
-[![](https://visitcount.itsvg.in/api?id=abhid1678&icon=0&color=0)](https://visitcount.itsvg.in) 
-
-
-
-
-
+<p>
+            <img src='https://visitcount.itsvg.in/api?id=abhid1678&icon=0&color=0'/>
+</p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31opa3k6srkqvwzqh2gmpglwzxx4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31opa3k6srkqvwzqh2gmpglwzxx4&redirect=true)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abhid1678&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
+<details>
+            <summary><h1>🏆 GitHub Trophies</h1></summary>
+            <p align='center'>
+                        <img src='https://github-profile-trophy.vercel.app/?username=abhid1678&theme=darkhub&no-frame=false&no-bg=false&margin-w=4' />
+            </p>
+            
+</details>
+
 
 
 
             
-## 🌐 Socials:
+
 <details>
             <summary><h1>🌐 Socials:</h1></summary>
+            <p align='center'>
             <a href='https://instagram.com/Abhid1678'>
             <img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)'/>
             </a>
             <a href='https://linkedin.com/in/abhishek-v-dubey'>
             <img src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white' />
             </a>
+            </p>
 </details>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Abhid1678) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-v-dubey) 
 
 
 <details>
             <summary><h1>💻 Tech Stack</h1></summary>
+            <p align='center' >
             <img src='https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white'/>
             <img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'/>
             <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/>
@@ -59,11 +66,13 @@
             <img src='https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white'/>
             <img src='https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white'/>
             <img src='https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white'/>
-           
+            </p>
 </details>
 
 <details>
+              <p align='center' />
   <summary><h1>📊 Stats and Activity</h1></summary>
+
 
   <h3>🔥 Streak Stats</h3>
 
@@ -79,6 +88,7 @@
 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AbhiD1678's Github Stats" src="https://github-readme-stats-abhid1678.vercel.app/api?username=abhid1678&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AbhiD1678's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AbhiD1678&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  </p>
   <br/>
   
 
@@ -103,6 +113,21 @@
                                                 <img align='center' src='https://randommeme-five.vercel.app/' style="height: 400px;'/>
                                     </a>
                         </p>
+</details>
+
+</br>
+<details>
+<p>
+            <h1>Watch this snake eat up my contribution graph</h1>
+            <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhiD1678/AbhiD1678/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhiD1678/AbhiD1678/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AbhiD1678/AbhiD1678/output/github-contribution-grid-snake.svg">
+</picture>
+
+            
+          
+</p>
 </details>
 
 
