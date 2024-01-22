@@ -12,6 +12,8 @@
 - 🥅 2024 Goals: Expertise in web development
 - ⚡ Fun fact: I am also a  video editor 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31opa3k6srkqvwzqh2gmpglwzxx4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31opa3k6srkqvwzqh2gmpglwzxx4&redirect=true)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhid1678&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
