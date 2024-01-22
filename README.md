@@ -17,6 +17,15 @@
 
             
 ## 🌐 Socials:
+<details>
+            <summary><h1>🌐 Socials:</h1></summary>
+            <a href='https://instagram.com/Abhid1678'>
+            <img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)'/>
+            </a>
+            <a href='https://linkedin.com/in/abhishek-v-dubey'>
+            <img src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white' />
+            </a>
+</details>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Abhid1678) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-v-dubey) 
 
 
