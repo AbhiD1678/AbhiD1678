@@ -1,28 +1,36 @@
-<a href="https://git.io/typing-svg">
+<p align='center'>
+    <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=5&pause=100000&color=217397&center=true&vCenter=true&repeat=false&random=false&width=800&height=100&lines=Abhishek+Dubey" alt="Typing SVG">
 </a>
+</p>
 
 <a href="https://git.io/typing-svg">
+    <p align='center' >
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=298EBA&center=true&vCenter=true&random=false&width=800&lines=Full-Stack+Web+Developer;Video+Editor;A+Budding+Engineer;Always+Learning+New+Things;Looking+to+Collaborate" alt="Typing SVG">
+    </p>
 </a>
 
-<p align='center'>
+
+<p align='center' >
     <img src="https://visitcount.itsvg.in/api?id=abhid1678&icon=0&color=0" />
 </p>
 
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=31opa3k6srkqvwzqh2gmpglwzxx4&redirect=true">
-            <p align='center'>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31opa3k6srkqvwzqh2gmpglwzxx4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" alt="Spotify GitHub Profile"></p>
-</a>
+<p align='center' >
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=31opa3k6srkqvwzqh2gmpglwzxx4&redirect=true">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31opa3k6srkqvwzqh2gmpglwzxx4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" alt="Spotify GitHub Profile">
+    </a>
+</p>
 
 
 
-<summary><h1>🏆 GitHub Trophies</h1></summary>
+
+<details>
+    <summary><h1>🏆 GitHub Trophies</h1></summary>
             <p align='center'>
                         <img src='https://github-profile-trophy.vercel.app/?username=abhid1678&theme=darkhub&no-frame=false&no-bg=false&margin-w=4' />
             </p>
             
-
+</details>
 
 
 
@@ -76,14 +84,14 @@
             </p>
 </details>
 
-<details>
-              <p align='center' />
+
+<p align='center' />
   <summary><h1>📊 Stats and Activity</h1></summary>
 
 
   <h3>🔥 Streak Stats</h3>
 
-  <p>
+  <p align='center'>
     <a href="">
       <img  alt="AbhiD1678's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhid1678&theme=blue-green&hide_border=false"/>
     </a>
@@ -100,49 +108,38 @@
   
 
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiD1678&theme=react-dark" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="AbhiD1678's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiD1678&theme=react-dark" /></a>
 
-</details>
+
 
 
 
 <details>
-            <summary><h1>📺Random</h1></summary>
-                        <h3>Random Dev Quote</h3>
-                        <p>
-                                    <a>
-                                                <img align='center' src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'/>
-                                    </a>
-                        </p>
-                        <h3>Random Dev Meme</h3>
-                        <p>
-                                    <a>
-                                                <img align='center' src='https://randommeme-five.vercel.app/' style="height: 400px;'/>
-                                    </a>
-                        </p>
+    <summary><h1 style="text-align: center;">📺Random</h1></summary>
+    <h3>Random Dev Quote</h3>
+    <p align="center">
+        <a>
+            <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+        </a>
+    </p>
+    <h3>Random Dev Meme</h3>
+    <p align="center">
+        <a>
+            <img src="https://randommeme-five.vercel.app/" style="height: 400px;"/>
+        </a>
+    </p>
 </details>
 
-</br>
-<details>
-<p>
-            <h1>Watch this snake eat up my contribution graph</h1>
-            <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhiD1678/AbhiD1678/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhiD1678/AbhiD1678/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AbhiD1678/AbhiD1678/output/github-contribution-grid-snake.svg">
-</picture>
-
-            
-          
-</p>
-</details>
+<br/>
 
 
+<summary><h2 style="text-align: center;">Watch this snake eat up my contribution graph</h2></summary>
+    <p align="center">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhiD1678/AbhiD1678/output/github-contribution-grid-snake-dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhiD1678/AbhiD1678/output/github-contribution-grid-snake.svg">
+            <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AbhiD1678/AbhiD1678/output/github-contribution-grid-snake.svg">
+        </picture>
+    </p>
 
 
-Watch this snake eat up my contribution graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhiD1678/AbhiD1678/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhiD1678/AbhiD1678/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AbhiD1678/AbhiD1678/output/github-contribution-grid-snake.svg">
-</picture>
