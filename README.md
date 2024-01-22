@@ -21,6 +21,50 @@
     </a>
 </p>
 
+<p align='center' >
+  <summary><h1>📊 Stats and Activity</h1></summary>
+
+
+  <h3>🔥 Streak Stats</h3>
+      <p align='center' >
+        <a href="">
+          <img  alt="AbhiD1678's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhid1678&theme=blue-green&hide_border=false"/>
+        </a>
+      </p>
+    
+
+
+  <h3>💻 GitHub Profile Stats</h3>
+      <p align='center' >
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AbhiD1678's Github Stats" src="https://github-readme-stats-abhid1678.vercel.app/api?username=abhid1678&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" height="192px"/></a>
+          <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AbhiD1678's Top Languages" src="https://github-readme-stats-abhid1678.vercel.app/api/top-langs/?username=AbhiD1678&langs_count=8&layout=compact&theme=react&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  </p>
+  <br/>
+  
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="AbhiD1678's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiD1678&theme=react-dark" /></a>
+
+
+
+<hr>
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/AbhiD1678/CryptoWorld" title="CryptoWorld"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiD1678&repo=CryptoWorld&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/AbhiD1678/lyriks" title="Lyriks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiD1678&repo=lyriks&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/AbhiD1678/Youtube_Clone" title="Youtube-Clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiD1678&repo=Youtube_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/AbhiD1678/Ai-Summary" title="Ai-Summariser"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiD1678&repo=Ai-Summary&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+
+<h4 align="center">
+  <a href="https://github.com/AbhiD1678?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
+
 
 
 <details>
@@ -83,49 +127,6 @@
             </p>
 </details>
 
-
-<p align='center' >
-  <summary><h1>📊 Stats and Activity</h1></summary>
-
-
-  <h3>🔥 Streak Stats</h3>
-      <p align='center' >
-        <a href="">
-          <img  alt="AbhiD1678's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhid1678&theme=blue-green&hide_border=false"/>
-        </a>
-      </p>
-    
-
-
-  <h3>💻 GitHub Profile Stats</h3>
-      <p align='center' >
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AbhiD1678's Github Stats" src="https://github-readme-stats-abhid1678.vercel.app/api?username=abhid1678&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" height="192px"/></a>
-          <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AbhiD1678's Top Languages" src="https://github-readme-stats-abhid1678.vercel.app/api/top-langs/?username=AbhiD1678&langs_count=8&layout=compact&theme=react&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  </p>
-  <br/>
-  
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="AbhiD1678's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiD1678&theme=react-dark" /></a>
-
-
-
-<hr>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/AbhiD1678/CryptoWorld" title="CryptoWorld"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiD1678&repo=CryptoWorld&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/AbhiD1678/lyriks" title="Lyriks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiD1678&repo=lyriks&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/AbhiD1678/Youtube_Clone" title="Youtube-Clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiD1678&repo=Youtube_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/AbhiD1678/Ai-Summary" title="Ai-Summariser"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiD1678&repo=Ai-Summary&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-
-<h4 align="center">
-  <a href="https://github.com/AbhiD1678?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
 
 <details>
     <summary><h1 style="text-align: center;">📺Random</h1></summary>
