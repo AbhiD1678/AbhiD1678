@@ -37,12 +37,12 @@
 
   <h3>💻 GitHub Profile Stats</h3>
       <p align='center' >
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AbhiD1678's Github Stats" src="https://github-readme-stats-abhid1678.vercel.app/api?username=abhid1678&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" height="192px"/></a>
-          <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AbhiD1678's Top Languages" src="https://github-readme-stats-abhid1678.vercel.app/api/top-langs/?username=AbhiD1678&langs_count=8&layout=compact&theme=react&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+        <a href=""><img alt="AbhiD1678's Github Stats" src="https://github-readme-stats-abhid1678.vercel.app/api?username=abhid1678&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" height="192px"/></a>
+          <a href=""><img alt="AbhiD1678's Top Languages" src="https://github-readme-stats-abhid1678.vercel.app/api/top-langs/?username=AbhiD1678&langs_count=8&layout=compact&theme=react&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   </p>
   <br/>
   
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="AbhiD1678's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiD1678&theme=react-dark" /></a>
+  <a href=""><img alt="AbhiD1678's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiD1678&theme=react-dark" /></a>
 
 
 
