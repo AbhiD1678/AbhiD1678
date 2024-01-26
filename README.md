@@ -28,8 +28,8 @@
 
   <h3>🔥 Streak Stats</h3>
       <p align='center' >
-        <a href="">
-          <img  alt="AbhiD1678's streak" src="https://github-readme-streak-stats-abhid1678.vercel.app?user=AbhiD1678&theme=blue-green&hide_border=false"/>
+        <a href="https://git.io/streak-stats">
+          <img   src="https://github-readme-streak-stats-abhid1678.vercel.app?user=AbhiD1678&theme=blue-green" alt="AbhiD1678's streak"/>
         </a>
       </p>
     
