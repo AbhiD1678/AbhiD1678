@@ -29,7 +29,7 @@
   <h3>🔥 Streak Stats</h3>
       <p align='center' >
         <a href="">
-          <img  alt="AbhiD1678's streak" src="https://github-readme-streak-stats-abhid1678.vercel.app?user=abhid1678&theme=blue-green&hide_border=false"/>
+          <img  alt="AbhiD1678's streak" src="https://github-readme-streak-stats-abhid1678.vercel.app?user=AbhiD1678&theme=blue-green&hide_border=false"/>
         </a>
       </p>
     
@@ -38,7 +38,7 @@
   <h3>💻 GitHub Profile Stats</h3>
       <p align='center' >
         <a href=""><img alt="AbhiD1678's Github Stats" src="https://github-readme-stats-abhid1678.vercel.app/api?username=abhid1678&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" height="192px"/></a>
-          <a href=""><img alt="AbhiD1678's Top Languages" src="https://github-readme-stats-abhid1678.vercel.app/api/top-langs/?username=AbhiD1678&langs_count=8&layout=compact&theme=react&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+          <a href=""><img alt="AbhiD1678's Top Languages" src="https://github-readme-stats-abhid1678.vercel.app/api/top-langs/?username=AbhiD1678&langs_count=8&layout=compact&theme=react&hide=Jupyter,Php%20Notebook,Roff" height="192px"/></a>
   </p>
   <br/>
   
