@@ -28,10 +28,7 @@
 
   <h3>🔥 Streak Stats</h3>
       <p align='center' >
-        <a href="https://git.io/streak-stats">
-          <img   src="https://github-readme-streak-stats-abhid1678.vercel.app?user=AbhiD1678&theme=blue-green" alt="AbhiD1678's streak"/>
-        </a>
-          <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-theta-seven.vercel.app?user=AbhiD1678" alt="GitHub Streak" /></a>
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-phi-smoky.vercel.app?user=AbhiD1678" alt="GitHub Streak" /></a>
           <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AbhiD1678" alt="GitHub Streak" /></a>
       </p>
     
