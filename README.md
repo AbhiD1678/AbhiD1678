@@ -9,25 +9,12 @@
     <p align='center' >
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=298EBA&center=true&vCenter=true&random=false&width=800&lines=Full-Stack+Web+Developer;Video+Editor;A+Budding+Engineer;Always+Learning+New+Things;Looking+to+Collaborate" alt="Typing SVG">
     </p>
-</a
+</a>
     
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31opa3k6srkqvwzqh2gmpglwzxx4&width={width})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31opa3k6srkqvwzqh2gmpglwzxx4)
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31opa3k6srkqvwzqh2gmpglwzxx4&count={count})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31opa3k6srkqvwzqh2gmpglwzxx4&unique={true|1|on|yes})
 
 <p align='center' >
     <img src="https://visitcount.itsvg.in/api?id=abhid1678&icon=0&color=0" />
 </p>
-
-<p align='center' >
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=31opa3k6srkqvwzqh2gmpglwzxx4&redirect=true">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31opa3k6srkqvwzqh2gmpglwzxx4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true" alt="Spotify GitHub Profile">
-    </a>
-</p>
-
 <p align='center' >
   <summary><h1>📊 Stats and Activity</h1></summary>
 
@@ -68,6 +55,21 @@
 <h4 align="center">
   <a href="https://github.com/AbhiD1678?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
+<p align='center'>
+  <summary><h1>🎵 Spotify</h1></summary>
+    <p align='center'>
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=31opa3k6srkqvwzqh2gmpglwzxx4&redirect=true">
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=31opa3k6srkqvwzqh2gmpglwzxx4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true" alt="Spotify GitHub Profile">
+    </a>
+  </p>
+  <p align='center'>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31opa3k6srkqvwzqh2gmpglwzxx4&count=5&unique={true|1|on|yes}" alt="Spotify Recently Played" />
+  </p>
+
+  
+
+</p>
 
 
 
