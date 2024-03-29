@@ -56,7 +56,7 @@
 <h4 align="center">
   <a href="https://github.com/AbhiD1678?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
+<!--
 <p align='center'>
   <summary><h1>🎵 Spotify</h1></summary>
     <p align='center'>
@@ -71,6 +71,7 @@
   
 
 </p>
+-->
 
 
 
