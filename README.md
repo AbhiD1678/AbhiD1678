@@ -28,8 +28,8 @@
 
   <h3>💻 GitHub Profile Stats</h3>
       <p align='center' >
-        <a href=""><img alt="AbhiD1678's Github Stats" src="https://github-readme-stats-abhid1678.vercel.app/api?username=abhid1678&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" height="192px"/></a>
-          <a href=""><img alt="AbhiD1678's Top Languages" src="https://github-readme-stats-abhid1678.vercel.app/api/top-langs/?username=AbhiD1678&langs_count=8&layout=compact&theme=react&hide=jupyter%20Notebook,Roff,php" height="192px"/></a>
+        <a href=""><img alt="AbhiD1678's Github Stats" src="https://github-readme-stats-elyx-abhid1678s-projects.vercel.app/api/?username=abhid1678&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" height="192px"/></a>
+          <a href=""><img alt="AbhiD1678's Top Languages" src="https://github-readme-stats-elyx-abhid1678s-projects.vercel.app/api/top-langs/?username=AbhiD1678&langs_count=8&layout=compact&theme=react&hide=jupyter%20Notebook,Roff,php" height="192px"/></a>
   </p>
   <br/>
   
