@@ -12,9 +12,7 @@
 </a>
     
 
-<p align='center' >
-    <img src="https://visitcount.itsvg.in/api?id=abhid1678&icon=0&color=0" />
-</p>
+
 <p align='center' >
   <summary><h1>📊 Stats and Activity</h1></summary>
 
